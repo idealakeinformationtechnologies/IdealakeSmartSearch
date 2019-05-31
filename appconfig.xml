@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<AppSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mode>Web</Mode>
+  <URL>www.sbicards.com</URL>
+  <MaxPagesToIndex>100</MaxPagesToIndex>
+  <LogPath>ErrorLogs</LogPath>
+  <ProcesslogPath>ProcesslogPath</ProcesslogPath>
+  <IndexPath>JsonIndex</IndexPath>
+  <SynonymsPath>Synonyms</SynonymsPath>
+</AppSettings>
